@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>pmc_custom_table</name>
+        <order>100</order>
+        <roles>x_58872_needit.pmc_custom_table_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 19:20:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>372038ff2f89101044253996f699b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pmc_custom_table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_372038ff2f89101044253996f699b663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 19:20:08</sys_updated_on>
+        <title>pmc_custom_table</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>47c348c9dbc7334049eac59705961937</instance_id>
+        <instance_name>dev90250</instance_name>
+        <name>sys_app_application_372038ff2f89101044253996f699b663</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>pmc_custom_table</name><order>100</order><roles>x_58872_needit.pmc_custom_table_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-03 19:20:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>372038ff2f89101044253996f699b663</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pmc_custom_table</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_372038ff2f89101044253996f699b663</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-03 19:20:08</sys_updated_on><title>pmc_custom_table</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-516803018</payload_hash>
+        <record_name>pmc_custom_table</record_name>
+        <reverted_from/>
+        <source>ae9d6c7f2f89101044253996f699b6de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 19:20:08</sys_created_on>
+        <sys_id>fb2038ff2f89101044253996f699b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727ba063530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 19:20:08</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>372038ff6d8910104f2adf2af94ae172</update_guid>
+        <update_guid_history>372038ff6d8910104f2adf2af94ae172:-516803018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="pmc_custom_table">f31d49732f0d101044253996f699b6fc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 21:26:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0ea0b17d07b0452a815b5da5e89a7989</sys_id>
+        <sys_metadata>372038ff2f89101044253996f699b663</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pmc_custom_table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_372038ff2f89101044253996f699b663</sys_update_name>
+        <sys_update_version display_value="sys_app_application_372038ff2f89101044253996f699b663">fb2038ff2f89101044253996f699b672</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 21:26:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
